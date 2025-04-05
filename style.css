@@ -1,15 +1,15 @@
-.neumorphic {
+.log {
     background-color: #e0e5ec;
     border-radius: 20px;
     box-shadow: 10px 10px 20px #a3b1c6, -10px -10px 20px #ffffff;
 
 }
-.neumorphic-inset {
+.log-inset {
     background-color: #e0e5ec;
     border-radius: 20px;
     box-shadow: inset 10px 10px 20px #a3b1c6, inset -10px -10px 20px #ffffff;
 }
-.neumorphic-card {
+.log-card {
     display: flex;
     flex-direction: column;
     justify-content: center;
